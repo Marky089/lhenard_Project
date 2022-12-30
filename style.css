@@ -19,4 +19,10 @@ p {
 
 #Copyright{
   color:black;
+  text-align: center;
+}
+
+.Title {
+  text-align: center;
+  font-size: 35px;
 }
